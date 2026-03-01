@@ -92,8 +92,6 @@ The motivation behind the change and a link to the issue it addresses.
 
 ## Testing
 How you verified the change works.
-
-Closes #<issue-number>
 ```
 
 A few things to keep in mind when opening a PR:
