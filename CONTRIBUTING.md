@@ -96,9 +96,6 @@ How you verified the change works.
 Closes #<issue-number>
 ```
 
-The `Closes #N` line is important. GitHub will automatically close the linked issue
-when the PR is merged, keeping things tidy without any manual cleanup.
-
 A few things to keep in mind when opening a PR:
 - Keep PRs focused. One issue per PR makes review easier and keeps history clean.
 - If your PR is still in progress, open it as a draft so reviewers know it isn't ready.
