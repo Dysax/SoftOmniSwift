@@ -73,7 +73,7 @@ if ! command -v meson >/dev/null 2>&1; then
     exit 11
   fi
 else
-  print_good "MASON IS INSTALLED ON THE SYSTEM"
+  print_good "MESON IS INSTALLED ON THE SYSTEM"
 fi
 
 print_debug "CALCULATING PATH TO SUBPROJECTS SUB-DIRECTORY..."
