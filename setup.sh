@@ -28,7 +28,7 @@ print() {
   text=$1
   message_type=$3
 
-  printf "%s %s: $text %s" "$color" "$message_type" "$NO_COLOR"
+  printf "%s %s: $text %s\n" "$color" "$message_type" "$NO_COLOR"
 }
 
 print_error() {
